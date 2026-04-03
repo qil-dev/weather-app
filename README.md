@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌤️ Weather App - Modern UI/UX Redesign
 
 A beautiful, modern weather application built with vanilla HTML, CSS, and JavaScript. Featuring dynamic theming, glassmorphism design, smooth animations, and comprehensive weather data.
@@ -291,17 +290,3 @@ weather-app/
 
 ---
 
-**Start using the weather app now!** Just open `index.html` in your browser. 🌤️☀️🌧️❄️🌙
-=======
-# Weather App
-
-Simple web app to check the weather.
-
-## Features
-- Simple UI
-
-## Tech
-- HTML
-- JavaScript
-- CSS
->>>>>>> fdfb783f314a39a59757358acc42dcfb06bf0b55
